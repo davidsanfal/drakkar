@@ -14,12 +14,9 @@ A printable robotic leg with the size of a human leg.
 
 ## Human model
 
+**Original design of the human model: [Jarde Dummy](https://grabcad.com/library/jarde-dummy-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2).**
 
-==**Original design of the human model: [Jarde Dummy](https://grabcad.com/library/jarde-dummy-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2).**==
-
-
-<p align="center"> <img src="docs/img/model_0.png" height="600" align="left"> <img src="docs/img/model_1.png" height="600" align="center"> <img src="docs/img/model_2.png" height="600" align="right">
-<p align="center"></p>
+<p align="center"> <img src="docs/img/model_0.png" height="600" align="left"> <img src="docs/img/model_1.png" height="600" align="center"> <img src="docs/img/model_2.png" height="600" align="right"></p>
 
 ## License
 
