@@ -1,3 +1,7 @@
+#include "pid.h"
+
+PID pid(1,0,0,90,180);
+
 int openPin = 2;
 int closePin = 3;
 int anglePin = A0;
