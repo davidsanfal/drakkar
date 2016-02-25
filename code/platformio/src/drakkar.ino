@@ -2,22 +2,16 @@
 
 PID pid(1,0,0,90,180);
 
-int openPin = 2;
-int closePin = 3;
-int anglePin = A0;
+int angle1Pin = A0;
+int angle2Pin = A1;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(closePin, INPUT);
-  pinMode(openPin, INPUT);
-  pinMode(anglePin, INPUT);
 }
 
 void loop() {
-  Serial.print(analogRead(anglePin));
+  Serial.print(analogRead(angle1Pin));
   Serial.print(" , ");
-  Serial.print(digitalRead(openPin));
-  Serial.print(" , ");
-  Serial.println(digitalRead(closePin));
+  Serial.println(analogRead(angle2Pin));
   delay(100);                  
 }
