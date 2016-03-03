@@ -8,16 +8,38 @@
 
 # Leg model
 
-<p align="center"><img src="docs/img/leg_0.png" height="500" align="center"></p>
-<p style="margin-right: 150px;margin-left:150px;" align="center"> <img src="docs/img/leg_3.png" height="400" align="left"> <img src="docs/img/leg_1.png" height="400" align="center"> <img src="docs/img/leg_5.png" height="400" align="right"></p>
-<p align="center"><img src="docs/img/leg_2.png" height="100" align="center"><img src="docs/img/leg_4.png" height="100" align="center"></p>
-<p align="center"></p>
+## First Freecad design
+
+<p align="center"><img src="docs/img/leg_0.png" height="500" align="center"> <img src="docs/img/leg_3.png" height="500" align="center"> <img src="docs/img/leg_1.png" height="500" align="center"> <img src="docs/img/leg_5.png" height="500" align="center"></p>
+
+<p align="center"><img src="docs/img/leg_2.png" height="100" align="center"> <img src="docs/img/leg_4.png" height="100" align="center"></p>
+
+## First prototype
+
+<p align="center"><img src="docs/img/drakkar_0_1.jpg" height="300" align="center"> <img src="docs/img/drakkar_0_2.jpg" height="300" align="center"> <img src="docs/img/drakkar_0_3.jpg" height="300" align="center"> </p>
+
+<p align="center"><img src="docs/img/drakkar_0_4.jpg" height="300" align="center"> <img src="docs/img/drakkar_0_5.jpg" height="300" align="center"> <img src="docs/img/drakkar_0_6.jpg" height="300" align="center"></p>
+
+<p align="center"><img src="docs/img/foot.gif" align="center"></p>
+
+<p align="center"><img src="docs/img/knee.gif" align="center"></p>
+
+## Second Freecad design with the electronics and a foot inspired by the goat's hooves
+
+<p align="center"> <img src="docs/img/leg_goat_0.png" height="500" align="center"> <img src="docs/img/leg_goat_1.png" height="450" align="center"> <img src="docs/img/leg_goat_2.png" height="450" align="center"></p>
+<p align="center"><img src="docs/img/leg_goat_3.png" height="450" align="center"> <img src="docs/img/leg_goat_4.png" height="450" align="center"></p>
+
+## Second prototype with the electronics and a foot inspired by the goat's hooves
+
+<p align="center"><img src="docs/img/drakkar_1_1.jpg" height="640" align="center"></p>
+
+<p align="center"><img src="docs/img/goat.gif" align="center"></p>
 
 # Human model
 
 **Original design of the human model: [Jarde Dummy](https://grabcad.com/library/jarde-dummy-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2).**
 
-<p align="center"> <img src="docs/img/model_0.png" height="600" align="left"> <img src="docs/img/model_1.png" height="600" align="center"> <img src="docs/img/model_2.png" height="600" align="right"></p>
+<p align="center"> <img src="docs/img/model_0.png" height="600" align="center"> <img src="docs/img/model_1.png" height="600" align="center"> <img src="docs/img/model_2.png" height="600" align="center"></p>
 
 # License
 
