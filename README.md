@@ -1,7 +1,7 @@
 </br>
 <p align="center"><img src="doc/logo/drakkar.png" width="600" align="center"></p>
 </br>
-<h3 align="center">A printable robotic leg with the size of a human leg.</h3>
+<h3 align="center">A printable robotic prosthetic leg.</h3>
 </br>
 
 <p align="center"><img src="doc/logo/bq-logo-human-right-technology.png" width="400" align="center"></p>
@@ -45,7 +45,21 @@
 
 # Drakkar D2
 
-coming soon
+## Leg model
+
+### First Freecad design
+
+<p align="center"><img src="doc/img/D2_0.png" height="640" align="center"> </p>
+
+### First prototype
+
+<p align="center"> <img src="doc/img/D2_1.jpg" height="640" align="center"> </p>
+
+## Human model
+
+**Original design of the human model: [Jarde Dummy](https://grabcad.com/library/jarde-dummy-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2).**
+
+<p align="center"><img src="doc/img/D2_model_0.png" height="640" align="center"> </p>
 
 # License
 
