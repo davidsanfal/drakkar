@@ -2,20 +2,18 @@
 
 PID pid(1,0,0,0,1024);
 
-int potentiometerRigthPin = A0;
-int potentiometerLeftPin = A1;
-int currentSensorPin = A2;
-int positionPin = A3;
+int potentiometerPin = A0;
+int currentSensorPin = A1;
+int endstopPin = 11;
 int clockwisePin = 8;
 int counterclockwisePin = 9;
 int speedPin = 10;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(potentiometerRigthPin, INPUT);
-  pinMode(potentiometerLeftPin, INPUT);
+  pinMode(potentiometerPin, INPUT);
   pinMode(currentSensorPin, INPUT);
-  pinMode(positionPin, INPUT);
+  pinMode(endstopPin, INPUT);
   pinMode(clockwisePin, OUTPUT);
   pinMode(counterclockwisePin, OUTPUT);
   pinMode(speedPin, OUTPUT);
@@ -23,8 +21,10 @@ void setup() {
 }
 
 void loop() {
-  Serial.print(analogRead(potentiometerRigthPin));
+  Serial.print(analogRead(potentiometerPin));
   Serial.print(" , ");
-  Serial.println(analogRead(potentiometerLeftPin));
-  delay(100);                  
+  Serial.println(digitalRead(endstopPin));
+  float output = pid.Compute(500, analogRead(potentiometerPin));
+  delay(100);
+
 }
