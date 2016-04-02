@@ -4,8 +4,6 @@
 <h3 align="center">A printable robotic prosthetic leg.</h3>
 </br>
 
-<p align="center"><img src="doc/logo/bq-logo-human-right-technology.png" width="400" align="center"></p>
-
 # Drakkar D1
 
 ## Leg model
