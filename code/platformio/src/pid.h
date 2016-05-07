@@ -1,3 +1,4 @@
+#include "Arduino.h"
 
 #define MANUAL 0
 #define AUTOMATIC 1

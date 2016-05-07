@@ -1,3 +1,4 @@
-platformio.sublime-workspace
-platformio.sublime-project
 *.pyc
+.pioenvs
+.clang_complete
+.gcc-flags.json

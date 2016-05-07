@@ -1,13 +1,23 @@
-#include "pid.h"
+#include "Arduino.h"
+#include "drakkar.h"
 
-PID pid(1,0,0,0,1024);
 
 int potentiometerPin = A0;
 int currentSensorPin = A1;
+int EMGFrontPin = A2;
+int EMGBackPin = A3;
 int endstopPin = 11;
 int clockwisePin = 8;
 int counterclockwisePin = 9;
 int speedPin = 10;
+Drakkar drakkar(potentiometerPin,
+                currentSensorPin,
+                endstopPin,
+                clockwisePin,
+                counterclockwisePin,
+                speedPin,
+                EMGFrontPin,
+                EMGBackPin);
 
 void setup() {
   Serial.begin(9600);
@@ -17,14 +27,10 @@ void setup() {
   pinMode(clockwisePin, OUTPUT);
   pinMode(counterclockwisePin, OUTPUT);
   pinMode(speedPin, OUTPUT);
-  pid.Initialize();
 }
 
 void loop() {
-  Serial.print(analogRead(potentiometerPin));
-  Serial.print(" , ");
-  Serial.println(digitalRead(endstopPin));
-  float output = pid.Compute(500, analogRead(potentiometerPin));
+  drakkar.compute();
   delay(100);
 
 }
