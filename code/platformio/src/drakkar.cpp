@@ -22,7 +22,7 @@ void Drakkar::compute(){
   Serial.print(" , ");
   Serial.print(analogRead(this->EMGFront_pin));
   Serial.print(" , ");
-  Serial.print(analogRead(this->EMGFront_pin));
+  Serial.print(analogRead(this->EMGBack_pin));
   float output = this->pid.Compute(500, analogRead(this->potentiometer_pin));
   Serial.print(" , ");
   Serial.println(output);
