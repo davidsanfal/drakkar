@@ -10,9 +10,8 @@
 
 ## Credits
 
-**Original design of the human model: [Jarde Dummy](https://grabcad.com/library/jarde-dummy-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2).**
-
-**Drakkar logo by [Sonia Verdú](http://www.soniaverdu.es/).**
+*Drakkar logo by [Sonia Verdú](http://www.soniaverdu.es/).
+*Original design of the human model: [Jarde Dummy](https://grabcad.com/library/jarde-dummy-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2).
 
 ## License
 
