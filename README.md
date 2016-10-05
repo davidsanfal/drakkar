@@ -7,6 +7,7 @@
 * [Anvil model](cad/freecad/anvil)
 
 [Drakkar's code repository](https://github.com/davidsanfal/drakkar-code)
+
 [Slides with extended information](https://docs.google.com/presentation/d/1ZMLm4qNfcyg3-ecoeMDhc2dMLOijJFQUegxEqDrHt8k/pub?start=false&loop=false&delayms=3000)
 
 ## Credits
