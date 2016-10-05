@@ -4,8 +4,6 @@
 <h3 align="center">A printable robotic prosthetic leg.</h3>
 </br>
 
-<iframe src="https://docs.google.com/presentation/d/1ZMLm4qNfcyg3-ecoeMDhc2dMLOijJFQUegxEqDrHt8k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 # Drakkar D1
 
 ## Leg model
