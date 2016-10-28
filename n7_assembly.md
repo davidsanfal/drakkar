@@ -1,6 +1,4 @@
-# N7 Anvil assembly
-
-> *in process*
+# N7 Anvil assembly (*in progress*)
 
 ## Knee
 
