@@ -5,8 +5,8 @@
 * [Goat model](cad/freecad/goat)
 * [N7 model](cad/freecad/n7)
 * [Anvil model](cad/freecad/anvil)
-* [Goat assembly](goat_assembly.md)
-* [N7 Anvil assembly](n7_assembly.md)
+* [Goat assembly (*in progress*)](goat_assembly.md)
+* [N7 Anvil assembly (*in progress*)](n7_assembly.md)
 
 [Drakkar's code repository](https://github.com/davidsanfal/drakkar-code)
 
