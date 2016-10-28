@@ -12,6 +12,17 @@
 
 [Slides with extended information](https://docs.google.com/presentation/d/1ZMLm4qNfcyg3-ecoeMDhc2dMLOijJFQUegxEqDrHt8k/pub?start=false&loop=false&delayms=3000)
 
+## components
+
+> *in process*
+
+* PLA
+* Filaflex
+* Steel Threaded Rod, M8, 1000mm (x2)
+* M3 screws
+* M3 and M8 nuts
+* bearing mf1482rs [(I use these)](http://www.rcbearings.co.uk/index.php?route=product/product&product_id=667)
+
 ## Credits
 
 * Drakkar logo by [Sonia Verdú](http://www.soniaverdu.es/).
