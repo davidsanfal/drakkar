@@ -1,4 +1,4 @@
-# Goat assembly
+# Goat assembly (*in progress*)
 
 ![](doc/img/assembly/goat/g1.png)
 
