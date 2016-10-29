@@ -1,5 +1,9 @@
 # Goat assembly (*in progress*)
 
+![](doc/img/assembly/goat/goat.gif)
+
+## Step by step
+
 ![](doc/img/assembly/goat/g1.png)
 
 ![](doc/img/assembly/goat/g2.png)
