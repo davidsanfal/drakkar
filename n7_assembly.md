@@ -1,6 +1,10 @@
 # N7 Anvil assembly (*in progress*)
 
-## Knee
+![](doc/img/assembly/n7/N7_knee.gif)
+
+![](doc/img/assembly/n7/N7.gif)
+
+## Knee step by step
 
 ![](doc/img/assembly/n7/n0-1.png)
 
@@ -14,7 +18,7 @@
 
 ![](doc/img/assembly/n7/n0-6.png)
 
-## Leg
+## Leg step by step
 
 ![](doc/img/assembly/n7/n1.png)
 
